@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1014671710626",
+    "project_id": "distribalimentos-8da8f",
+    "storage_bucket": "distribalimentos-8da8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014671710626:android:d74ff92c50987f340b3afb",
+        "android_client_info": {
+          "package_name": "com.example.distribalimentos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC5OMfKnBlq-JNcBPolsoS897uomrM7go"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
